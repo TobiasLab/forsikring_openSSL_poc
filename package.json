@@ -1,0 +1,12 @@
+{
+  "name": "forsikring_openssl_poc",
+  "version": "1.0.0",
+  "description": "You need to have nodeJS and typescript installed to run this program # npm install -g typescript # npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
